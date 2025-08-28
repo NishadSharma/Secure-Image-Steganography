@@ -14,10 +14,10 @@ A final year cybersecurity project with both **GUI (Tkinter + ttkbootstrap)** an
 ## 📸 Screenshots  
 
 ### GUI – Main Window  
-![Main Window](./screenshot/Screenshot 2025-08-28 225838.png)
+![Main Window](./Screenshot1.png)
 
 ### Message Embedding Example  
-![Message Embedding](./screenshot/Screenshot 2025-08-28 230023.png)
+![Message Embedding](./Screenshot2.png)
 
 ---
 
