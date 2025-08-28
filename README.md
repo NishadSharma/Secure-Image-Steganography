@@ -11,6 +11,16 @@ A final year cybersecurity project with both **GUI (Tkinter + ttkbootstrap)** an
 
 ---
 
+## 📸 Screenshots  
+
+### GUI – Main Window  
+![Main Window](./screenshot/Screenshot 2025-08-28 225838.png)
+
+### Message Embedding Example  
+![Message Embedding](./screenshot/Screenshot 2025-08-28 230023.png)
+
+---
+
 ## ✨ Features  
 - 🔒 **AES-256 Encryption** – Strong cryptography for confidentiality  
 - 🖼️ **LSB Steganography** – Hide encrypted data inside images  
@@ -69,18 +79,8 @@ Secure-Image-Steganography/
 🔮 Future Scope
 
 📹 Video & audio steganography
-
 🤖 AI-powered stego detection resistance
-
 ☁️ Cloud & mobile app integration
-
-## 📸 Screenshots  
-
-### GUI – Main Window  
-![Main Window](./screenshot/Screenshot 2025-08-28 225838.png)
-
-### Message Embedding Example  
-![Message Embedding](./screenshot/Screenshot 2025-08-28 230023.png)
 
 
 📜 License
