@@ -74,14 +74,14 @@ Secure-Image-Steganography/
 
 ☁️ Cloud & mobile app integration
 
-📸 Screenshots
-GUI – Main Window
+## 📸 Screenshots  
 
-(Add screenshot here)
+### GUI – Main Window  
+![Main Window](./screenshot/Screenshot 2025-08-28 225838.png)
 
-Message Embedding Example
+### Message Embedding Example  
+![Message Embedding](./screenshot/Screenshot 2025-08-28 230023.png)
 
-(Add screenshot here)
 
 📜 License
 
